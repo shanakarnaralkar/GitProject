@@ -1,9 +1,15 @@
 
 
+<<<<<<< Updated upstream
 
 //Big 195
 
 public void m5(){
 
+=======
+//Bug 190
+
+public void m1(){
+>>>>>>> Stashed changes
 
 }
